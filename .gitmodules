@@ -1,0 +1,3 @@
+[submodule ".\\codered-hcss-2021\\"]
+	path = .\\codered-hcss-2021\\
+	url = https://github.com/patrick-moore/codered-hcss-2021.git
