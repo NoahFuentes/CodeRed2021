@@ -1,7 +1,12 @@
-
+import React from 'react';
+import ReturnPage from './ReturnPage'
 
 function App() {
-  return null
+  return (
+    <>
+    <ReturnPage />
+    </>
+  )
 }
 
 export default App;
